@@ -1,0 +1,6 @@
+[submodule "BIAT_WEB"]
+	path = BIAT_WEB
+	url = https://github.com/amiahn/BIAT_WEB.git
+[submodule "BIAT_IoT"]
+	path = BIAT_IoT
+	url = https://github.com/amiahn/BIAT_IoT.git
