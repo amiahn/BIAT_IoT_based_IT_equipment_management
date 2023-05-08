@@ -52,4 +52,4 @@ This project contains two repositories:
 
 5- Install the necessary dependencies.
 
-6- Launch the application. 
+6- Launch the application.
