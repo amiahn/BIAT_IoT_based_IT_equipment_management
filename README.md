@@ -1,4 +1,4 @@
-# Gestion de matériel informatique basée sur l’IoT
+# IoT-based Computer Equipment Management
 
 ## Introduction
 
